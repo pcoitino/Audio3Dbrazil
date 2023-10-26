@@ -1,6 +1,6 @@
 
 
-const RADIO_NAME = 'Binaulab Audio 3D';
+const RADIO_NAME = 'Binaulab_Audio_3D';
 
 // SELECT ARTWORK PROVIDER, ITUNES, DEEZER & SPOTIFY  eg : spotify 
 var API_SERVICE = 'SPOTIFY';
